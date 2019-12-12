@@ -1,0 +1,2 @@
+# TypeOfCic
+Readme postponed
